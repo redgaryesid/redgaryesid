@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola a todos 👋
+
+Soy Edgar Rodríguez desarrollador Web con 7 años de experiencia en entornos de desarrollo como Android Studio, Visual Studio y Visual Studio Code. Sólida experiencia en lenguajes de backend como C# y algo de Java, así como en el manejo de frontend utilizando frameworks de desarrollo como Angular y React.
+
+
+Amplia experiencia trabajando con bases de datos relacionales, tales como SQL Server, MySQL y PostgreSQL. Competencias básicas en la administración de Windows Server 2012. Además, manejo eficiente de herramientas de Google Workspace y automatización mediante Google Apps Script.
+
+
+Habilidades técnicas y capacidad para resolver problemas complejos mediante el uso de herramientas tecnológicas, optimizando procesos y desarrollando soluciones eficientes para aplicaciones web. Enfoque constante en el aprendizaje continuo y en mantenerse actualizado con las últimas tecnologías del sector.
 
 <!--
 **redgaryesid/redgaryesid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
