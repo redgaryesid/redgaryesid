@@ -24,7 +24,7 @@ Trabajo con pasión en el desarrollo de **aplicaciones web modernas**, combinand
 ---
 
 ### 🌐 Conéctate conmigo
-📫 [LinkedIn](https://www.linkedin.com/in/edgar-yesid-rodriguez-valbuena-88500b86/) | <!-- 💼 [Portafolio](https://tu-portafolio.com) | ✉️ [Correo](mailto:tuemail@ejemplo.com)-->
+📫 [LinkedIn](https://www.linkedin.com/in/redgaryesid/) | <!-- 💼 [Portafolio](https://tu-portafolio.com) | ✉️ [Correo](mailto:tuemail@ejemplo.com)-->
 
 
 <!--
